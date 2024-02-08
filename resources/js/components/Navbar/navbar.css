@@ -1,0 +1,8 @@
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+.fs-7 {
+    font-size: 10px;
+}

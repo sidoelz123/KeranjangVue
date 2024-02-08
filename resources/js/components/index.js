@@ -1,2 +1,2 @@
-export { default as NavBar } from "./NavBar.vue";
-export { default as Footer } from "./Footer.vue";
+export { default as NavBar } from "./Navbar/index.vue";
+export { default as Footer } from "./Footer/index.vue";
