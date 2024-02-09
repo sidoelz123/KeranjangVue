@@ -1,5 +1,5 @@
 <template>
-    <footer class="font-monospace container mx-auto text-center ">
-        <span>©2024 OyiShop - Made with ☕️ by Ijaa</span>
+    <footer class="font-monospace bg-body-tertiary text-center p-4">
+        <span class="container mx-auto">©2024 OyiShop - Made with ☕️ by Ijaa</span>
     </footer>
 </template>

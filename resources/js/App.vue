@@ -1,6 +1,8 @@
 <template>
     <NavBar />
-    <router-view />
+    <section class="bg-body-secondary vh-100" style="padding-top: 6em;">
+        <router-view />
+    </section>
     <Footer />
 </template>
 <script>
@@ -9,3 +11,6 @@ export default {
     components: { NavBar, Footer },
 }
 </script>
+<style>
+@import '@css/app.css'
+</style>
